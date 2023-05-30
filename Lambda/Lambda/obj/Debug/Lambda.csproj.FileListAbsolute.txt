@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR2\Lambda\Lambda\bin\Debug\Lambda.exe.config
+D:\VC\PROG6221\GR2\Lambda\Lambda\bin\Debug\Lambda.exe
+D:\VC\PROG6221\GR2\Lambda\Lambda\bin\Debug\Lambda.pdb
+D:\VC\PROG6221\GR2\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR2\Lambda\Lambda\obj\Debug\Lambda.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR2\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR2\Lambda\Lambda\obj\Debug\Lambda.exe
+D:\VC\PROG6221\GR2\Lambda\Lambda\obj\Debug\Lambda.pdb

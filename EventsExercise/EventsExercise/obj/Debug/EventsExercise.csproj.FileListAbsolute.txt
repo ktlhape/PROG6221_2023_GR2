@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR2\EventsExercise\EventsExercise\bin\Debug\EventsExercise.exe.config
+D:\VC\PROG6221\GR2\EventsExercise\EventsExercise\bin\Debug\EventsExercise.exe
+D:\VC\PROG6221\GR2\EventsExercise\EventsExercise\bin\Debug\EventsExercise.pdb
+D:\VC\PROG6221\GR2\EventsExercise\EventsExercise\obj\Debug\EventsExercise.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR2\EventsExercise\EventsExercise\obj\Debug\EventsExercise.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR2\EventsExercise\EventsExercise\obj\Debug\EventsExercise.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR2\EventsExercise\EventsExercise\obj\Debug\EventsExercise.exe
+D:\VC\PROG6221\GR2\EventsExercise\EventsExercise\obj\Debug\EventsExercise.pdb

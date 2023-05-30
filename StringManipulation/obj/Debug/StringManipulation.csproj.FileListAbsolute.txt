@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR2\StringManipulation\bin\Debug\StringManipulation.exe.config
+D:\VC\PROG6221\GR2\StringManipulation\bin\Debug\StringManipulation.exe
+D:\VC\PROG6221\GR2\StringManipulation\bin\Debug\StringManipulation.pdb
+D:\VC\PROG6221\GR2\StringManipulation\obj\Debug\StringManipulation.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR2\StringManipulation\obj\Debug\StringManipulation.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR2\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR2\StringManipulation\obj\Debug\StringManipulation.exe
+D:\VC\PROG6221\GR2\StringManipulation\obj\Debug\StringManipulation.pdb

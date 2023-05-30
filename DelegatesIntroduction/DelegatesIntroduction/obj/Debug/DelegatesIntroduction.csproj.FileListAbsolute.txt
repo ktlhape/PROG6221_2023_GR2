@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR2\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\DelegatesIntroduction.exe.config
+D:\VC\PROG6221\GR2\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\DelegatesIntroduction.exe
+D:\VC\PROG6221\GR2\DelegatesIntroduction\DelegatesIntroduction\bin\Debug\DelegatesIntroduction.pdb
+D:\VC\PROG6221\GR2\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\DelegatesIntroduction.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR2\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\DelegatesIntroduction.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR2\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\DelegatesIntroduction.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR2\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\DelegatesIntroduction.exe
+D:\VC\PROG6221\GR2\DelegatesIntroduction\DelegatesIntroduction\obj\Debug\DelegatesIntroduction.pdb

@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR2\Casting\Casting\bin\Debug\Casting.exe.config
+D:\VC\PROG6221\GR2\Casting\Casting\bin\Debug\Casting.exe
+D:\VC\PROG6221\GR2\Casting\Casting\bin\Debug\Casting.pdb
+D:\VC\PROG6221\GR2\Casting\Casting\obj\Debug\Casting.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR2\Casting\Casting\obj\Debug\Casting.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR2\Casting\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR2\Casting\Casting\obj\Debug\Casting.exe
+D:\VC\PROG6221\GR2\Casting\Casting\obj\Debug\Casting.pdb

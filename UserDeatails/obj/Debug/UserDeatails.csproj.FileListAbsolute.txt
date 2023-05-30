@@ -1,0 +1,8 @@
+D:\VC\PROG6221\UserDeatails\bin\Debug\UserDeatails.exe.config
+D:\VC\PROG6221\UserDeatails\bin\Debug\UserDeatails.exe
+D:\VC\PROG6221\UserDeatails\bin\Debug\UserDeatails.pdb
+D:\VC\PROG6221\UserDeatails\obj\Debug\UserDeatails.csproj.AssemblyReference.cache
+D:\VC\PROG6221\UserDeatails\obj\Debug\UserDeatails.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\UserDeatails\obj\Debug\UserDeatails.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\UserDeatails\obj\Debug\UserDeatails.exe
+D:\VC\PROG6221\UserDeatails\obj\Debug\UserDeatails.pdb

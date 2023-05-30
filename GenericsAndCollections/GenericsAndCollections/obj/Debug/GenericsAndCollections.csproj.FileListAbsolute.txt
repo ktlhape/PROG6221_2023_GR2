@@ -1,0 +1,8 @@
+D:\VC\PROG6221\GR2\GenericsAndCollections\GenericsAndCollections\bin\Debug\GenericsAndCollections.exe.config
+D:\VC\PROG6221\GR2\GenericsAndCollections\GenericsAndCollections\bin\Debug\GenericsAndCollections.exe
+D:\VC\PROG6221\GR2\GenericsAndCollections\GenericsAndCollections\bin\Debug\GenericsAndCollections.pdb
+D:\VC\PROG6221\GR2\GenericsAndCollections\GenericsAndCollections\obj\Debug\GenericsAndCollections.csproj.AssemblyReference.cache
+D:\VC\PROG6221\GR2\GenericsAndCollections\GenericsAndCollections\obj\Debug\GenericsAndCollections.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6221\GR2\GenericsAndCollections\GenericsAndCollections\obj\Debug\GenericsAndCollections.csproj.CoreCompileInputs.cache
+D:\VC\PROG6221\GR2\GenericsAndCollections\GenericsAndCollections\obj\Debug\GenericsAndCollections.exe
+D:\VC\PROG6221\GR2\GenericsAndCollections\GenericsAndCollections\obj\Debug\GenericsAndCollections.pdb
