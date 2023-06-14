@@ -1,0 +1,20 @@
+﻿<Window x:Class="StudentModules.FilterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentModules"
+        mc:Ignorable="d"
+        Title="FilterWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="177*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Student Number: " FontSize="18" HorizontalAlignment="Left" Margin="58,0,0,0" VerticalAlignment="Center"/>
+        <TextBox Name="txtStudentNum" HorizontalAlignment="Left" Margin="244,0,0,0" TextWrapping="Wrap"  VerticalAlignment="Center" Width="120" FontSize="18"/>
+        <Button Name="btnSearch" Content="Search" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btnSearch_Click" Margin="461,0,0,0" Height="34" Width="81"/>
+        <ListBox Name="lstDisplay" Grid.Row="1" BorderBrush="Gray" BorderThickness="2" Margin="25" FontSize="18"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,40 @@
+﻿<Window x:Class="StudentModules.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentModules"
+        mc:Ignorable="d"
+        Title="Student Modules" Height="550" Width="850">
+    <Grid Background="AliceBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="6*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="400"/>
+            <ColumnDefinition Width="430"/>
+
+        </Grid.ColumnDefinitions>
+        <Label Content="Modules" HorizontalAlignment="Left" Margin="334,0,0,0" VerticalAlignment="Center" FontSize="32" Foreground="#FFF90101" Grid.ColumnSpan="2"/>
+        <Label Content="Student Number:" FontSize="20" HorizontalAlignment="Left" Margin="22,38,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtStNumber" HorizontalAlignment="Left" Margin="200,42,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="20"  />
+        <Label Content="Firstname:" FontSize="20" HorizontalAlignment="Left" Margin="83,80,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <TextBox Name="txtFirstname" FontSize="20" HorizontalAlignment="Left" Margin="200,88,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Lastname:" FontSize="20" HorizontalAlignment="Left" Margin="85,132,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <TextBox Name="txtLastname" FontSize="20" HorizontalAlignment="Left" Margin="200,140,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtAge" FontSize="20" HorizontalAlignment="Left" Margin="200,192,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Label Content="Age:" FontSize="20" HorizontalAlignment="Left" Margin="133,188,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Button Content="Add Student" Name="btnAdd" HorizontalAlignment="Left" Margin="22,376,0,0" Grid.Row="1" VerticalAlignment="Top" Background="#FF1651E6" BorderBrush="White" FontSize="16" Foreground="White" Width="114" Click="btnAdd_Click"/>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="296,376,0,0" Grid.Row="1" VerticalAlignment="Top" Background="#FF1926EE" BorderBrush="White" FontSize="16" Foreground="White" Width="78" Click="btnClose_Click"/>
+        <ListBox x:Name="lstDisplay" FontSize="18" Grid.Column="1" Grid.Row="1" Margin="20,88,20,20" BorderBrush="Blue" BorderThickness="2"/>
+        <Button Content="Clear" x:Name="btnClear" HorizontalAlignment="Left" Margin="158,376,0,0" Grid.Row="1" VerticalAlignment="Top" Background="#FF1651E6" BorderBrush="White" FontSize="16" Foreground="White" Width="113" Click="btnClear_Click"/>
+        <Button Content="Display" x:Name="btnDisplay" HorizontalAlignment="Left" Margin="25,23,0,0" Grid.Row="1" VerticalAlignment="Top" Background="#FF1651E6" BorderBrush="White" FontSize="16" Foreground="White" Width="114"  Grid.Column="1" Click="btnDisplay_Click"/>
+        <Label Content="Method Of Study:" FontSize="20" HorizontalAlignment="Left" Margin="17,245,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <RadioButton Name="rdoFulltime" GroupName="Method" Content="Full-time" HorizontalAlignment="Left" Margin="200,256,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <RadioButton Name="rdoPartime" GroupName="Method" Content="Part-time" HorizontalAlignment="Left" Margin="200,294,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Button Content="Filter" x:Name="btnFilter" HorizontalAlignment="Left" Margin="296,23,0,0" Grid.Row="1" VerticalAlignment="Top" Background="#FF1651E6" BorderBrush="White" FontSize="16" Foreground="White" Width="114"  Grid.Column="1" Click="btnFilter_Click" />
+
+    </Grid>
+</Window>
