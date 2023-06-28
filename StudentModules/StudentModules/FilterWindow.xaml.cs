@@ -26,15 +26,57 @@ namespace StudentModules
 
         private void btnSearch_Click(object sender, RoutedEventArgs e)
         {
-            string stNum;
-            stNum = txtStudentNum.Text;
+            lstDisplay.Items.Clear();
+            string strSearch;
+            Student myStudent = new Student();
+            List<Student> stList = new List<Student>();
 
-            Student myStudent = Student.GetStudent(stNum);
+            if (txtSearchText.Text.Length == 0)
+            {
+                MessageBox.Show("Please enter text to search","Student App",
+                    MessageBoxButton.OK, MessageBoxImage.Warning);
+                txtSearchText.Focus();
+            }
+            else
+            {
+                strSearch = txtSearchText.Text;
+
+                if (cmbSearchType.SelectedItem.ToString().Equals("Student number"))
+                {
+                    myStudent = Student.GetStudent(strSearch);
+                    lstDisplay.Items.Add(myStudent.ToString());
+                }
+                else if (cmbSearchType.SelectedItem.ToString().Equals("Lastname"))
+                {
+                    stList = Student.GetStudentByLastname(strSearch);
+                    lstDisplay.Items.Add(Student.GetStudentsData(stList));
+
+                }
+                else if (cmbSearchType.SelectedItem.ToString().Equals("Age"))
+                {
+
+                }
+                else if (cmbSearchType.SelectedItem.ToString().Equals("Method of Study"))
+                {
+
+                }
+            }
+
             
+        }
 
-            lstDisplay.Items.Add(myStudent.ToString());
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            cmbSearchType.Items.Add("Student number");
+            cmbSearchType.Items.Add("Lastname");
+            cmbSearchType.Items.Add("Age");
+            cmbSearchType.Items.Add("Method of Study");
+        }
 
-
+        private void cmbSearchType_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            txtSearchText.Clear();
+            txtSearchText.Focus();
         }
     }
 }
